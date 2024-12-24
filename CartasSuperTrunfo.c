@@ -73,7 +73,7 @@ int main() {
 
     // Exibição dos dados das cidades cadastradas
     printf("\n___ Dados das Cidades Cadastradas ___\n");
-    
+
     // Loop para exibir os dados de cada cidade
     for (index = 0; index < quantidade_cidades; index++) {
         // Exibição dos dados de cada cidade de forma organizada
@@ -89,4 +89,3 @@ int main() {
 
     return 0;
 }
-
